@@ -1,0 +1,53 @@
+ @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico|Pattaya&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico|Pattaya|Underdog&display=swap');
+ 
+ h1 {font-family: 'Pacifico', cursive;
+    
+  }
+
+ h7{font-family: 'Alegreya Sans', sans-serif;}
+
+  h3{font-family: 'Pattaya', sans-serif;}
+  h4{font-family: 'Underdog', cursive;}
+  h5{
+	  margin-left: 5px;
+	  }
+   h6{font-family: 'Pacifico', cursive; 
+  }
+ 
+   /* background: #c7b39b url(../популярные афишы/img/34/bg.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+   } 
+
+
+   
+   
+  . div {
+    height: 100%; 
+    width: 100%; 
+    font-size:80px;
+	color:white;
+   }
+ #animate-area	{ 
+	width: 560px; 
+	height: 400px; 
+	background-image: url('https://smarticle.ru/wp-content/uploads/2016/02/bg-clouds.png');
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+
+	animation: animatedBackground 40s linear infinite;
+}
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
+
+
+
+
+
+

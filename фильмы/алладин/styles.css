@@ -1,0 +1,184 @@
+ @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico|Pattaya&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Bad+Script|Pacifico|Pattaya|Underdog&display=swap');
+ 
+ h1 {font-family: 'Pacifico', cursive;
+    
+  }
+
+ h7{font-family: 'Alegreya Sans', sans-serif;}
+
+  h3{font-family: 'Pattaya', sans-serif;}
+  h4{font-family: 'Underdog', cursive;}
+  h5{
+	  margin-left: 5px;
+	  }
+   h6{
+  }
+  
+   #shapka{
+position:fixed;
+background-color: #99AAFF;
+width:100%;
+height:80px;
+top:0;
+padding:0 6px;
+margin-left: -10px;
+z-index:100;
+ }
+ 
+ #osnova{
+  position:absolute;
+width:100%;
+height:5000px;
+top:0;
+left:0px;
+padding:6px 6px;
+ }
+  .yt-form{
+	 float: left;
+	 margin-left: 30px;
+	 margin-top: 5px;
+     
+ }
+    
+	
+	
+	
+ .shapka-new{
+	 float: left;
+	 margin-top: -42px;
+	margin-left: 1890px;
+
+	 
+ }
+ 
+  #menu-left{
+	position:absolute;
+	top:80px;
+	width:680px;
+	height:5000px;
+	background-color:99AAFF;
+	z-index:100;
+	
+	
+  }
+  
+  .menu-left-option{
+	  color: black;
+	  z-index:1000;
+	  font-size:42px;
+  }
+  
+  .video-opisanie{
+	  width: 100px;
+	  height: 100px;
+	 
+	  float: left;
+  }
+  
+   .opisanie-text{
+	  padding: 5px;
+	  width: 1790px;
+	  height: 1390px;
+	  background-color: AOAOAO;
+	  float: left;
+	  color:black;
+	  font-size:15px;
+	 
+  }
+  
+  .opisanie-name{
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  margin-left: -5px;
+	  margin-top: -5px;
+	  width: 200px;
+	  height: 50px;
+	  background-color: 99AAFF;
+	 float: left;
+  }
+  .img-opisanie{
+	  width: 1000px;
+	  height: 1450px;
+	  background-color: AOAOAO;
+	  float: left;
+  }
+  
+   
+  .vse-opisaniya-container{
+	  width: 1750px;
+	  height: 5000px;
+	  margin-left: 600px;
+	  background-color: #CCDDFF;
+  }
+  
+  
+  .opisanie-container{
+	  width: 2900px;
+	  height: 6000px;
+	  margin: 100px;
+	  float: left;
+	  background-color: CCDDFF;
+	  
+     
+  }
+  
+  
+  h3{
+	  margin-left: 75px;
+	  font-size:52px;
+  }
+  
+  hr{
+	  border-color: black;
+  }
+   A {
+    color: black; 
+   }
+   A:visited {
+    color: black; 
+   }
+   A:active {
+    color: black; 
+   }
+ a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+	
+}
+
+a:hover {
+    background-size: 100% 2px;
+}
+
+#menu-left-1{
+	position:absolute;
+	top:140px;
+	width:`1000px;
+	height:1450px;
+	background-color:99AAFF;
+	z-index:100;
+	
+  }
+.menu-left-1{
+	  color: black;
+	  z-index:100;
+	  font-size:41px;
+  }
+
+.video{ margin-left: 750px;
+top:440px;}
+
+h4{
+	  
+	  font-size:52px;
+  }
+
+ 
